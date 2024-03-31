@@ -2,9 +2,12 @@
 <p align="center">
   <img src="demo/1.png" alt="ggQuotes" width="100">
 </p>
+
+
 ## Apa Itu ggQUOTES ?
 
 ggQuotes merupakan tools untuk membuat kutipan motivasi, kata kata lucu, sedih, semangat pada gambar secara instant. ggQuotes dibuat dengan CodeIgniter framework web full-stack PHP yang ringan, cepat, fleksibel dan aman.
+
 ## Demo
 <p align="center">
   <img src="demo/demo1.png" alt="Halaman Home" width="50%"><br>
